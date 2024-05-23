@@ -3,7 +3,6 @@
 
 ### Sobre o projeto:
 > O projeto consiste na criação de um aplicativo de postagens de fotos, inspirado na rede social Instagram.
-### Professores mentores do projeto
 
 ### Integrantes do projeto
 Aluno | GitHub | LinkedIn
