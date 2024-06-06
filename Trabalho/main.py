@@ -17,12 +17,29 @@ def f_Ordenacao(dicionario):
 #FUNÇÕES AUXILIARES DA PRIMEIRA PARTE DO TRABALHO   
 def f_formatarData(data): # função auxiliar para formatar a saída da data de acordo com o solicitado
     dia, mes, ano, hora, minuto = data
-    return f'{dia}/{mes}/{ano} {hora}:{minuto}'
+    if dia < 10 and mes < 10:
+        return f'0{dia}/0{mes}/{ano} {f_formatarHora(hora,minuto)}'
+    elif dia > 10 and mes < 10:
+        return f'{dia}/0{mes}/{ano} {f_formatarHora(hora,minuto)}'
+    elif dia < 10 and mes > 10:
+        return f'0{dia}/{mes}/{ano} {f_formatarHora(hora,minuto)}'
+    else:
+        return f'{dia}/{mes}/{ano} {f_formatarHora(hora,minuto)}'
+def f_formatarHora(hora,minuto):
+    if hora < 10 and minuto < 10:
+        return f'0{hora}:0{minuto}'
+    elif hora < 10 and minuto >= 10:
+        return f'0{hora}:{minuto}'
+    elif hora >= 10 and minuto < 10:
+        return f'{hora}:0{minuto}'
+    else:
+        return f'{hora}:{minuto}'
 
+    
 def f_quickSort(l, dicionario, inicio=0, fim=None):
-    if fim is None:
+    if(fim is None):
         fim = len(l) - 1
-    if inicio < fim:
+    if(inicio < fim):
         pivo = f_particao(l, dicionario, inicio, fim)
         f_quickSort(l, dicionario, inicio, pivo - 1)
         f_quickSort(l, dicionario, pivo + 1, fim)
@@ -31,16 +48,16 @@ def f_particao(l, dicionario, inicio, fim):
     i = inicio - 1
     pivo = l[fim]
     for j in range(inicio, fim):
-        if len(dicionario[l[j]][1]) > len(dicionario[pivo][1]): # comparar por quem segue mais pessoas
+        if len(dicionario[l[j]][2]) > len(dicionario[pivo][2]): # comparar por quem segue mais pessoas
             i += 1
             l[i], l[j] = l[j], l[i]
-        elif len(dicionario[l[j]][1]) == len(dicionario[pivo][1]) and len(dicionario[l[j]][2]) > len(dicionario[pivo][2]):
+        elif len(dicionario[l[j]][2]) == len(dicionario[pivo][2]) and len(dicionario[l[j]][1]) > len(dicionario[pivo][1]):
             i += 1
             l[i], l[j] = l[j], l[i]
-        elif len(dicionario[l[j]][1]) == len(dicionario[pivo][1]) and len(dicionario[l[j]][2]) == len(dicionario[pivo][2]) and dicionario[l[j]][0] < dicionario[pivo][0]:
+        elif len(dicionario[l[j]][2]) == len(dicionario[pivo][2]) and len(dicionario[l[j]][1]) == len(dicionario[pivo][1]) and dicionario[l[j]][0] < dicionario[pivo][0]:
             i += 1
             l[i], l[j] = l[j], l[i]
-        elif len(dicionario[l[j]][1]) == len(dicionario[pivo][1]) and len(dicionario[l[j]][2]) == len(dicionario[pivo][2]) and dicionario[l[j]][0] == dicionario[pivo][0] and l[j] < pivo:
+        elif len(dicionario[l[j]][2]) == len(dicionario[pivo][2]) and len(dicionario[l[j]][1]) == len(dicionario[pivo][1]) and dicionario[l[j]][0] == dicionario[pivo][0] and l[j] < pivo:
             i += 1
             l[i], l[j] = l[j], l[i]
     l[i + 1], l[fim] = l[fim], l[i + 1]
@@ -62,20 +79,20 @@ def f_maiorFeed(n, pivo): # Função para verificar os primeiros posts do feed
     dia1, mes1, ano1, hora1, min1 = pivo[2]
     dia2, mes2, ano2, hora2, min2 = n[2]
 
-    if ano2 < ano1: return True
-    if ano2 > ano1: return False
+    if(ano2 < ano1): return True
+    if(ano2 > ano1): return False
 
-    if mes2 < mes1: return True
-    if mes2 > mes1: return False
+    if(mes2 < mes1): return True
+    if(mes2 > mes1): return False
 
-    if dia2 < dia1: return True
-    if dia2 > dia1: return False
+    if(dia2 < dia1): return True
+    if(dia2 > dia1): return False
 
     horarioTotal1 = (hora1 * 60) + min1
     horarioTotal2 = (hora2 * 60) + min2
 
-    if horarioTotal2 < horarioTotal1: return True
-    if horarioTotal2 > horarioTotal1: return False
+    if(horarioTotal2 < horarioTotal1): return True
+    if(horarioTotal2 > horarioTotal1): return False
 
     return n[1] > pivo[1]
 
