@@ -102,11 +102,11 @@ def f_quickSort2(l, inicio, fim):
 ################################################ SEGUNDA PARTE DO TRABALHO ##########################################################
 def f_feedUsuarios(dicionario, saidas): # função que printa todo o feed do usuário de acordo com as informações fornecidas no dicionário
     usuariosOrdenados = f_Ordenacao(dicionario)
+    chave = usuariosOrdenados[0]
     with open(saidas, 'a') as f:
-        for chave in usuariosOrdenados:
-            f.write(f'Feed de {dicionario[chave][0]}\n')
-            f.write('***\n')
-            f_buscaFeed(chave, dicionario, f)
+        f.write(f'Feed de {dicionario[chave][0]}\n')
+        f.write('***\n')
+        f_buscaFeed(chave, dicionario, f)
 
 def f_buscaFeed(chave, dicionario, f): # função para buscar os seguidos de cada usuário
     l = []
