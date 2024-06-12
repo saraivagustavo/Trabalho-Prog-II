@@ -2,12 +2,12 @@ Heloisa Alves (segue 5, seguido por 4)
 Isabella Oliveira (segue 4, seguido por 4)
 Isis Barbosa (segue 4, seguido por 4)
 Valentina Rodrigues (segue 4, seguido por 4)
+Theo Lopes (segue 2, seguido por 4)
 Heitor Fernandes (segue 3, seguido por 3)
 Ravi Dias (segue 3, seguido por 2)
+Elisa Rodrigues (segue 2, seguido por 2)
 Helena Rocha (segue 3, seguido por 1)
 Pedro Oliveira (segue 3, seguido por 1)
-Theo Lopes (segue 2, seguido por 4)
-Elisa Rodrigues (segue 2, seguido por 2)
 ---
 Feed de Heloisa Alves
 ***
@@ -19,7 +19,7 @@ foto3.jpg
 elisa.rodrigues
 foto4.jpg
 Do story pro feed
-14/11/2023 9:54
+14/11/2023 09:54
 ***
 isabella.oliveira
 foto1.jpg
@@ -34,7 +34,7 @@ Sextou!
 isabella.oliveira
 foto0.jpg
 Ta pago
-14/10/2023 13:4
+14/10/2023 13:04
 ***
 valentina.rodrigues
 foto0.jpg
@@ -44,62 +44,62 @@ Dia lindo
 helena.rocha
 foto2.jpg
 Sextou!
-13/9/2023 12:25
+13/09/2023 12:25
 ***
 valentina.rodrigues
 foto2.jpg
 Sextou!
-7/9/2023 10:9
+07/09/2023 10:09
 ***
 valentina.rodrigues
 foto1.jpg
 Do story pro feed
-17/8/2023 11:17
+17/08/2023 11:17
 ***
 theo.lopes
 foto3.jpg
 Dia lindo
-16/8/2023 15:49
+16/08/2023 15:49
 ***
 theo.lopes
 foto2.jpg
 Biscoito
-25/7/2023 8:45
+25/07/2023 08:45
 ***
 helena.rocha
 foto3.jpg
 Dia lindo
-22/7/2023 8:2
+22/07/2023 08:02
 ***
 elisa.rodrigues
 foto1.jpg
 :)
-7/7/2023 17:24
+07/07/2023 17:24
 ***
 elisa.rodrigues
 foto2.jpg
 Ta pago
-12/6/2023 18:47
+12/06/2023 18:47
 ***
 elisa.rodrigues
 foto3.jpg
 :)
-24/5/2023 10:43
+24/05/2023 10:43
 ***
 helena.rocha
 foto1.jpg
 Sextou!
-11/5/2023 9:12
+11/05/2023 09:12
 ***
 isabella.oliveira
 foto2.jpg
 Ta pago
-27/4/2023 19:25
+27/04/2023 19:25
 ***
 theo.lopes
 foto0.jpg
 Biscoito
-24/4/2023 21:34
+24/04/2023 21:34
 ***
 isabella.oliveira
 foto4.jpg
@@ -109,773 +109,25 @@ TBT
 elisa.rodrigues
 foto0.jpg
 Do story pro feed
-19/3/2023 17:56
+19/03/2023 17:56
 ***
 theo.lopes
 foto1.jpg
 Dia lindo
-19/2/2023 15:34
+19/02/2023 15:34
 ***
 helena.rocha
 foto0.jpg
 Sextou!
-18/1/2023 15:36
+18/01/2023 15:36
 ***
 helena.rocha
 foto4.jpg
 Do story pro feed
-18/1/2023 9:33
+18/01/2023 09:33
 ***
 valentina.rodrigues
 foto4.jpg
 Ta pago
-15/1/2023 15:37
-***
-Feed de Isabella Oliveira
-***
-pedro.oliveira
-foto1.jpg
-:)
-14/12/2023 13:35
-***
-heloisa.alves
-foto2.jpg
-TBT
-22/11/2023 22:48
-***
-heloisa.alves
-foto3.jpg
-:)
-24/10/2023 20:39
-***
-heitor.fernandes
-foto1.jpg
-Dia lindo
-20/10/2023 19:34
-***
-helena.rocha
-foto2.jpg
-Sextou!
-13/9/2023 12:25
-***
-pedro.oliveira
-foto3.jpg
-Do story pro feed
-10/9/2023 13:57
-***
-heloisa.alves
-foto5.jpg
-Sextou!
-23/7/2023 9:47
-***
-helena.rocha
-foto3.jpg
-Dia lindo
-22/7/2023 8:2
-***
-pedro.oliveira
-foto4.jpg
-Biscoito
-21/7/2023 20:47
-***
-pedro.oliveira
-foto5.jpg
-:)
-15/7/2023 15:19
-***
-heloisa.alves
-foto1.jpg
-:)
-4/7/2023 9:41
-***
-pedro.oliveira
-foto0.jpg
-Biscoito
-9/6/2023 16:30
-***
-heloisa.alves
-foto4.jpg
-Do story pro feed
-28/5/2023 14:35
-***
-heitor.fernandes
-foto4.jpg
-TBT
-19/5/2023 15:59
-***
-helena.rocha
-foto1.jpg
-Sextou!
-11/5/2023 9:12
-***
-heloisa.alves
-foto0.jpg
-Do story pro feed
-12/4/2023 16:47
-***
-heitor.fernandes
-foto3.jpg
-Dia lindo
-6/3/2023 18:42
-***
-heitor.fernandes
-foto2.jpg
-Sextou!
-2/3/2023 9:39
-***
-heitor.fernandes
-foto0.jpg
-Biscoito
-28/2/2023 13:36
-***
-pedro.oliveira
-foto2.jpg
-Dia lindo
-24/2/2023 13:18
-***
-helena.rocha
-foto0.jpg
-Sextou!
-18/1/2023 15:36
-***
-helena.rocha
-foto4.jpg
-Do story pro feed
-18/1/2023 9:33
-***
-Feed de Isis Barbosa
-***
-pedro.oliveira
-foto1.jpg
-:)
-14/12/2023 13:35
-***
-elisa.rodrigues
-foto4.jpg
-Do story pro feed
-14/11/2023 9:54
-***
-helena.rocha
-foto2.jpg
-Sextou!
-13/9/2023 12:25
-***
-pedro.oliveira
-foto3.jpg
-Do story pro feed
-10/9/2023 13:57
-***
-helena.rocha
-foto3.jpg
-Dia lindo
-22/7/2023 8:2
-***
-pedro.oliveira
-foto4.jpg
-Biscoito
-21/7/2023 20:47
-***
-pedro.oliveira
-foto5.jpg
-:)
-15/7/2023 15:19
-***
-elisa.rodrigues
-foto1.jpg
-:)
-7/7/2023 17:24
-***
-elisa.rodrigues
-foto2.jpg
-Ta pago
-12/6/2023 18:47
-***
-pedro.oliveira
-foto0.jpg
-Biscoito
-9/6/2023 16:30
-***
-elisa.rodrigues
-foto3.jpg
-:)
-24/5/2023 10:43
-***
-helena.rocha
-foto1.jpg
-Sextou!
-11/5/2023 9:12
-***
-elisa.rodrigues
-foto0.jpg
-Do story pro feed
-19/3/2023 17:56
-***
-ravi.dias
-foto3.jpg
-Do story pro feed
-15/3/2023 13:38
-***
-ravi.dias
-foto2.jpg
-Sextou!
-8/3/2023 15:49
-***
-ravi.dias
-foto1.jpg
-TBT
-28/2/2023 8:30
-***
-ravi.dias
-foto4.jpg
-Sextou!
-26/2/2023 18:53
-***
-pedro.oliveira
-foto2.jpg
-Dia lindo
-24/2/2023 13:18
-***
-ravi.dias
-foto0.jpg
-Sextou!
-11/2/2023 18:21
-***
-helena.rocha
-foto0.jpg
-Sextou!
-18/1/2023 15:36
-***
-helena.rocha
-foto4.jpg
-Do story pro feed
-18/1/2023 9:33
-***
-Feed de Valentina Rodrigues
-***
-isabella.oliveira
-foto1.jpg
-:)
-12/11/2023 17:50
-***
-isabella.oliveira
-foto3.jpg
-Sextou!
-28/10/2023 17:52
-***
-heitor.fernandes
-foto1.jpg
-Dia lindo
-20/10/2023 19:34
-***
-isabella.oliveira
-foto0.jpg
-Ta pago
-14/10/2023 13:4
-***
-helena.rocha
-foto2.jpg
-Sextou!
-13/9/2023 12:25
-***
-helena.rocha
-foto3.jpg
-Dia lindo
-22/7/2023 8:2
-***
-heitor.fernandes
-foto4.jpg
-TBT
-19/5/2023 15:59
-***
-helena.rocha
-foto1.jpg
-Sextou!
-11/5/2023 9:12
-***
-isabella.oliveira
-foto2.jpg
-Ta pago
-27/4/2023 19:25
-***
-isabella.oliveira
-foto4.jpg
-TBT
-10/4/2023 11:22
-***
-ravi.dias
-foto3.jpg
-Do story pro feed
-15/3/2023 13:38
-***
-ravi.dias
-foto2.jpg
-Sextou!
-8/3/2023 15:49
-***
-heitor.fernandes
-foto3.jpg
-Dia lindo
-6/3/2023 18:42
-***
-heitor.fernandes
-foto2.jpg
-Sextou!
-2/3/2023 9:39
-***
-heitor.fernandes
-foto0.jpg
-Biscoito
-28/2/2023 13:36
-***
-ravi.dias
-foto1.jpg
-TBT
-28/2/2023 8:30
-***
-ravi.dias
-foto4.jpg
-Sextou!
-26/2/2023 18:53
-***
-ravi.dias
-foto0.jpg
-Sextou!
-11/2/2023 18:21
-***
-helena.rocha
-foto0.jpg
-Sextou!
-18/1/2023 15:36
-***
-helena.rocha
-foto4.jpg
-Do story pro feed
-18/1/2023 9:33
-***
-Feed de Heitor Fernandes
-***
-pedro.oliveira
-foto1.jpg
-:)
-14/12/2023 13:35
-***
-heloisa.alves
-foto2.jpg
-TBT
-22/11/2023 22:48
-***
-isabella.oliveira
-foto1.jpg
-:)
-12/11/2023 17:50
-***
-isabella.oliveira
-foto3.jpg
-Sextou!
-28/10/2023 17:52
-***
-heloisa.alves
-foto3.jpg
-:)
-24/10/2023 20:39
-***
-isabella.oliveira
-foto0.jpg
-Ta pago
-14/10/2023 13:4
-***
-pedro.oliveira
-foto3.jpg
-Do story pro feed
-10/9/2023 13:57
-***
-heloisa.alves
-foto5.jpg
-Sextou!
-23/7/2023 9:47
-***
-pedro.oliveira
-foto4.jpg
-Biscoito
-21/7/2023 20:47
-***
-pedro.oliveira
-foto5.jpg
-:)
-15/7/2023 15:19
-***
-heloisa.alves
-foto1.jpg
-:)
-4/7/2023 9:41
-***
-pedro.oliveira
-foto0.jpg
-Biscoito
-9/6/2023 16:30
-***
-heloisa.alves
-foto4.jpg
-Do story pro feed
-28/5/2023 14:35
-***
-isabella.oliveira
-foto2.jpg
-Ta pago
-27/4/2023 19:25
-***
-heloisa.alves
-foto0.jpg
-Do story pro feed
-12/4/2023 16:47
-***
-isabella.oliveira
-foto4.jpg
-TBT
-10/4/2023 11:22
-***
-pedro.oliveira
-foto2.jpg
-Dia lindo
-24/2/2023 13:18
-***
-Feed de Ravi Dias
-***
-heitor.fernandes
-foto1.jpg
-Dia lindo
-20/10/2023 19:34
-***
-isis.barbosa
-foto3.jpg
-Do story pro feed
-13/10/2023 19:52
-***
-isis.barbosa
-foto1.jpg
-Do story pro feed
-6/10/2023 18:32
-***
-theo.lopes
-foto3.jpg
-Dia lindo
-16/8/2023 15:49
-***
-theo.lopes
-foto2.jpg
-Biscoito
-25/7/2023 8:45
-***
-isis.barbosa
-foto2.jpg
-Dia lindo
-17/6/2023 21:35
-***
-heitor.fernandes
-foto4.jpg
-TBT
-19/5/2023 15:59
-***
-theo.lopes
-foto0.jpg
-Biscoito
-24/4/2023 21:34
-***
-isis.barbosa
-foto4.jpg
-Dia lindo
-9/4/2023 21:24
-***
-heitor.fernandes
-foto3.jpg
-Dia lindo
-6/3/2023 18:42
-***
-heitor.fernandes
-foto2.jpg
-Sextou!
-2/3/2023 9:39
-***
-heitor.fernandes
-foto0.jpg
-Biscoito
-28/2/2023 13:36
-***
-theo.lopes
-foto1.jpg
-Dia lindo
-19/2/2023 15:34
-***
-isis.barbosa
-foto0.jpg
-:)
-10/2/2023 14:4
-***
-Feed de Helena Rocha
-***
-valentina.rodrigues
-foto3.jpg
-:)
-26/12/2023 15:48
-***
-pedro.oliveira
-foto1.jpg
-:)
-14/12/2023 13:35
-***
-heloisa.alves
-foto2.jpg
-TBT
-22/11/2023 22:48
-***
-heloisa.alves
-foto3.jpg
-:)
-24/10/2023 20:39
-***
-valentina.rodrigues
-foto0.jpg
-Dia lindo
-3/10/2023 11:35
-***
-pedro.oliveira
-foto3.jpg
-Do story pro feed
-10/9/2023 13:57
-***
-valentina.rodrigues
-foto2.jpg
-Sextou!
-7/9/2023 10:9
-***
-valentina.rodrigues
-foto1.jpg
-Do story pro feed
-17/8/2023 11:17
-***
-heloisa.alves
-foto5.jpg
-Sextou!
-23/7/2023 9:47
-***
-pedro.oliveira
-foto4.jpg
-Biscoito
-21/7/2023 20:47
-***
-pedro.oliveira
-foto5.jpg
-:)
-15/7/2023 15:19
-***
-heloisa.alves
-foto1.jpg
-:)
-4/7/2023 9:41
-***
-pedro.oliveira
-foto0.jpg
-Biscoito
-9/6/2023 16:30
-***
-heloisa.alves
-foto4.jpg
-Do story pro feed
-28/5/2023 14:35
-***
-heloisa.alves
-foto0.jpg
-Do story pro feed
-12/4/2023 16:47
-***
-pedro.oliveira
-foto2.jpg
-Dia lindo
-24/2/2023 13:18
-***
-valentina.rodrigues
-foto4.jpg
-Ta pago
-15/1/2023 15:37
-***
-Feed de Pedro Oliveira
-***
-elisa.rodrigues
-foto4.jpg
-Do story pro feed
-14/11/2023 9:54
-***
-isabella.oliveira
-foto1.jpg
-:)
-12/11/2023 17:50
-***
-isabella.oliveira
-foto3.jpg
-Sextou!
-28/10/2023 17:52
-***
-isabella.oliveira
-foto0.jpg
-Ta pago
-14/10/2023 13:4
-***
-theo.lopes
-foto3.jpg
-Dia lindo
-16/8/2023 15:49
-***
-theo.lopes
-foto2.jpg
-Biscoito
-25/7/2023 8:45
-***
-elisa.rodrigues
-foto1.jpg
-:)
-7/7/2023 17:24
-***
-elisa.rodrigues
-foto2.jpg
-Ta pago
-12/6/2023 18:47
-***
-elisa.rodrigues
-foto3.jpg
-:)
-24/5/2023 10:43
-***
-isabella.oliveira
-foto2.jpg
-Ta pago
-27/4/2023 19:25
-***
-theo.lopes
-foto0.jpg
-Biscoito
-24/4/2023 21:34
-***
-isabella.oliveira
-foto4.jpg
-TBT
-10/4/2023 11:22
-***
-elisa.rodrigues
-foto0.jpg
-Do story pro feed
-19/3/2023 17:56
-***
-theo.lopes
-foto1.jpg
-Dia lindo
-19/2/2023 15:34
-***
-Feed de Theo Lopes
-***
-heloisa.alves
-foto2.jpg
-TBT
-22/11/2023 22:48
-***
-elisa.rodrigues
-foto4.jpg
-Do story pro feed
-14/11/2023 9:54
-***
-heloisa.alves
-foto3.jpg
-:)
-24/10/2023 20:39
-***
-heloisa.alves
-foto5.jpg
-Sextou!
-23/7/2023 9:47
-***
-elisa.rodrigues
-foto1.jpg
-:)
-7/7/2023 17:24
-***
-heloisa.alves
-foto1.jpg
-:)
-4/7/2023 9:41
-***
-elisa.rodrigues
-foto2.jpg
-Ta pago
-12/6/2023 18:47
-***
-heloisa.alves
-foto4.jpg
-Do story pro feed
-28/5/2023 14:35
-***
-elisa.rodrigues
-foto3.jpg
-:)
-24/5/2023 10:43
-***
-heloisa.alves
-foto0.jpg
-Do story pro feed
-12/4/2023 16:47
-***
-elisa.rodrigues
-foto0.jpg
-Do story pro feed
-19/3/2023 17:56
-***
-Feed de Elisa Rodrigues
-***
-isabella.oliveira
-foto1.jpg
-:)
-12/11/2023 17:50
-***
-isabella.oliveira
-foto3.jpg
-Sextou!
-28/10/2023 17:52
-***
-heitor.fernandes
-foto1.jpg
-Dia lindo
-20/10/2023 19:34
-***
-isabella.oliveira
-foto0.jpg
-Ta pago
-14/10/2023 13:4
-***
-heitor.fernandes
-foto4.jpg
-TBT
-19/5/2023 15:59
-***
-isabella.oliveira
-foto2.jpg
-Ta pago
-27/4/2023 19:25
-***
-isabella.oliveira
-foto4.jpg
-TBT
-10/4/2023 11:22
-***
-heitor.fernandes
-foto3.jpg
-Dia lindo
-6/3/2023 18:42
-***
-heitor.fernandes
-foto2.jpg
-Sextou!
-2/3/2023 9:39
-***
-heitor.fernandes
-foto0.jpg
-Biscoito
-28/2/2023 13:36
+15/01/2023 15:37
 ***
