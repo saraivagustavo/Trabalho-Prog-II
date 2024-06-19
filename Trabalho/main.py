@@ -21,7 +21,7 @@ def f_formatarData(data): # função auxiliar para formatar a saída da data de 
         return f'0{dia}/0{mes}/{ano} {f_formatarHora(hora,minuto)}'
     elif dia > 10 and mes < 10:
         return f'{dia}/0{mes}/{ano} {f_formatarHora(hora,minuto)}'
-    elif dia < 10 and mes > 10:
+    elif dia < 10 and mes >= 10:
         return f'0{dia}/{mes}/{ano} {f_formatarHora(hora,minuto)}'
     else:
         return f'{dia}/{mes}/{ano} {f_formatarHora(hora,minuto)}'
