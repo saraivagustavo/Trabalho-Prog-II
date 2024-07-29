@@ -121,7 +121,7 @@ def f_feedUsuarios(dicionario, saidas): # função que printa todo o feed do usu
     usuariosOrdenados = f_Ordenacao(dicionario)
     chave = usuariosOrdenados[0]
     with open(saidas, 'a') as f:
-        f.write(f'Feed de {dicionario[chave][0]}\n')
+        f.write(f'Feed de {dicionario[chave][0]}:\n')
         f.write('***\n')
         f_buscaFeed(chave, dicionario, f)
 
